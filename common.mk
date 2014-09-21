@@ -78,6 +78,7 @@ PRODUCT_PACKAGES := \
     libsecion \
     libsync \
     libwpa_client \
+    libUMP \
     lights.exynos4 \
     macloader \
     tinymix \
